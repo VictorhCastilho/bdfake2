@@ -8,26 +8,26 @@
     ],
 
     "anuncios": [
-    { "id": 1, "produtoId": 1, "descrição": "esse é um Ps5", "categoriaID": "1", "estadoConsevação": "1", "valor": 4500 },
-    { "id": 2, "produtoId": 2, "descrição": "esse é um Xbox", "categoriaID": "1", "estadoConsevação": "1", "valor": 4000 },
-    { "id": 3, "produtoId": 3, "descrição": "esse é um PSP", "categoriaID": "1", "estadoConsevação": "1", "valor": 500 },
-    { "id": 4, "produtoId": 4, "descrição": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConsevação": "1", "valor": 300 },
-    { "id": 5, "produtoId": 5, "descrição": "esse é um Macbook", "categoriaID": "3", "estadoConsevação": "1", "valor": 16000 }
+    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaID": "1", "estadoConservacao": "1", "valor": 4500 },
+    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaID": "1", "estadoConservacao": "1", "valor": 4000 },
+    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaID": "1", "estadoConservacao": "1", "valor": 500 },
+    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConservacao": "1", "valor": 300 },
+    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaID": "3", "estadoConservacao": "1", "valor": 16000 }
     ],
 
     "procuras": [
-    { "id": 1, "produtoId": 1, "descrição": "esse é um Ps5", "categoriaID": "1", "estadoConsevação": "1", "valorAproximado": 4500 },
-    { "id": 2, "produtoId": 2, "descrição": "esse é um Xbox", "categoriaID": "1", "estadoConsevação": "1", "valorAproximado": 4000 },
-    { "id": 3, "produtoId": 3, "descrição": "esse é um PSP", "categoriaID": "1", "estadoConsevação": "1", "valorAproximado": 500 },
-    { "id": 4, "produtoId": 4, "descrição": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConsevação": "1", "valorAproximado": 300 },
-    { "id": 5, "produtoId": 5, "descrição": "esse é um Macbook", "categoriaID": "3", "estadoConsevação": "1", "valorAproximado": 16000 }
+    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaID": "1", "estadoConservacao": "1", "valorAproximado": 4500 },
+    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaID": "1", "estadoConservacao": "1", "valorAproximado": 4000 },
+    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaID": "1", "estadoConservacao": "1", "valorAproximado": 500 },
+    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConservacao": "1", "valorAproximado": 300 },
+    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaID": "3", "estadoConservacao": "1", "valorAproximado": 16000 }
     ],
     
     "leiloes": [
-    { "id": 1, "produtoId": 1, "descrição": "esse é um Ps5", "categoriaID": "1", "estadoConsevação": "1", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 2, "produtoId": 2, "descrição": "esse é um Xbox", "categoriaID": "1", "estadoConsevação": "1", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 3, "produtoId": 3, "descrição": "esse é um PSP", "categoriaID": "1", "estadoConsevação": "1", "valorInicial": 50, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 4, "produtoId": 4, "descrição": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConsevação": "1", "valorInicial": 20, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 5, "produtoId": 5, "descrição": "esse é um Macbook", "categoriaID": "3", "estadoConsevação": "1", "valorInicial": 3000, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"}
+    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaID": "1", "estadoConservacao": "1", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaID": "1", "estadoConservacao": "1", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaID": "1", "estadoConservacao": "1", "valorInicial": 50, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaID": "2", "estadoConservacao": "1", "valorInicial": 20, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaID": "3", "estadoConservacao": "1", "valorInicial": 3000, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"}
     ]
 }
