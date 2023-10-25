@@ -1,0 +1,9 @@
+{
+    "produtos": [
+    { "id": 1, "nome": "Playstation5", "marca": "Sony" },
+    { "id": 2, "nome": "XboxSeriesX", "marca": "Microsoft" },
+    { "id": 3, "nome": "PSP", "marca": "Sony" },
+    { "id": 4, "nome": "Controle PS4", "marca": "Sony" },
+    { "id": 5, "nome": "Macbook Air 13", "marca": "Apple" }
+    ]
+}
