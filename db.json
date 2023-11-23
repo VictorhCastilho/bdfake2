@@ -8,26 +8,26 @@
     ],
 
     "anuncios": [
-    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaId": "1", "conservacaoId": "1", "valor": 4500 },
-    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaId": "1", "conservacaoId": "2", "valor": 4000 },
-    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaId": "1", "conservacaoId": "1", "valor": 500 },
-    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaId": "2", "conservacaoId": "3", "valor": 300 },
-    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaId": "3", "conservacaoId": "2", "valor": 16000 }
+    { "id": 1, "produtoId": 1,"produtoNome": "Playstation5", "descricao": "esse é um Ps5", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valor": 4500 },
+    { "id": 2, "produtoId": 2,"produtoNome": "XboxSeriesX", "descricao": "esse é um Xbox", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "2","conservacaoNome": "bom estado", "valor": 4000 },
+    { "id": 3, "produtoId": 3,"produtoNome": "PSP", "descricao": "esse é um PSP", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valor": 500 },
+    { "id": 4, "produtoId": 4,"produtoNome": "Controle PS4", "descricao": "esse é um Controle de Ps4", "categoriaId": "2","categoriaNome": "controle", "conservacaoId": "3","conservacaoNome": "mal estado", "valor": 300 },
+    { "id": 5, "produtoId": 5,"produtoNome": "Macbook Air 13", "descricao": "esse é um Macbook", "categoriaId": "3","categoriaNome": "notebook", "conservacaoId": "2","conservacaoNome": "bom estado", "valor": 16000 }
     ],
 
     "procuras": [
-    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaId": "1", "conservacaoId": "1", "valorAproximado": 4500 },
-    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaId": "1", "conservacaoId": "2", "valorAproximado": 4000 },
-    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaId": "1", "conservacaoId": "1", "valorAproximado": 500 },
-    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaId": "2", "conservacaoId": "3", "valorAproximado": 300 },
-    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaId": "3", "conservacaoId": "2", "valorAproximado": 16000 }
+    { "id": 1, "produtoId": 1,"produtoNome": "Playstation5", "descricao": "esse é um Ps5", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valorAproximado": 4500 },
+    { "id": 2, "produtoId": 2,"produtoNome": "XboxSeriesX", "descricao": "esse é um Xbox", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "2","conservacaoNome": "bom estado", "valorAproximado": 4000 },
+    { "id": 3, "produtoId": 3,"produtoNome": "PSP", "descricao": "esse é um PSP", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valorAproximado": 500 },
+    { "id": 4, "produtoId": 4,"produtoNome": "Controle PS4", "descricao": "esse é um Controle de Ps4", "categoriaId": "2","categoriaNome": "controle", "conservacaoId": "3","conservacaoNome": "mal estado", "valorAproximado": 300 },
+    { "id": 5, "produtoId": 5,"produtoNome": "Macbook Air 13", "descricao": "esse é um Macbook", "categoriaId": "3","categoriaNome": "notebook", "conservacaoId": "2","conservacaoNome": "bom estado", "valorAproximado": 16000 }
     ],
     
     "leiloes": [
-    { "id": 1, "produtoId": 1, "descricao": "esse é um Ps5", "categoriaId": "1", "conservacaoId": "1", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 2, "produtoId": 2, "descricao": "esse é um Xbox", "categoriaId": "1", "conservacaoId": "2", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 3, "produtoId": 3, "descricao": "esse é um PSP", "categoriaId": "1", "conservacaoId": "1", "valorInicial": 50, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 4, "produtoId": 4, "descricao": "esse é um Controle de Ps4", "categoriaId": "2", "conservacaoId": "3", "valorInicial": 20, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
-    { "id": 5, "produtoId": 5, "descricao": "esse é um Macbook", "categoriaId": "3", "conservacaoId": "2", "valorInicial": 3000, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"}
+    { "id": 1, "produtoId": 1,"produtoNome": "Playstation5", "descricao": "esse é um Ps5", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 2, "produtoId": 2,"produtoNome": "XboxSeriesX", "descricao": "esse é um Xbox", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "2","conservacaoNome": "bom estado", "valorInicial": 1500, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 3, "produtoId": 3,"produtoNome": "PSP", "descricao": "esse é um PSP", "categoriaId": "1","categoriaNome": "console", "conservacaoId": "1","conservacaoNome": "perfeito estado", "valorInicial": 50, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 4, "produtoId": 4,"produtoNome": "Controle PS4", "descricao": "esse é um Controle de Ps4", "categoriaId": "2","categoriaNome": "controle", "conservacaoId": "3","conservacaoNome": "mal estado", "valorInicial": 20, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"},
+    { "id": 5, "produtoId": 5,"produtoNome": "Macbook Air 13", "descricao": "esse é um Macbook", "categoriaId": "3","categoriaNome": "notebook", "conservacaoId": "2","conservacaoNome": "bom estado", "valorInicial": 3000, "valorAumento": 100, "dataInicio": "25/11/2023", "horaInicio": "12:00", "dataFim": "27/11/2023", "horaFim": "18:00"}
     ]
 }
